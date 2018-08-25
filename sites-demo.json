@@ -1,0 +1,12 @@
+{
+	"sites": {
+		"TestSite": {
+			"position": 1,
+			"API-Key": "abc"
+		},
+
+		"TestSite2": {
+			"position": 2,
+			"API-Key": "def"
+		}
+	}
